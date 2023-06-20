@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadhasta&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadhasta" /> </p>
 
+- 🏠 I live in **Kulon Progo, Yogyakarta**
+
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 Contact me on **hastapermana24@gmail.com**
